@@ -1,0 +1,32 @@
+{
+  "patients": [
+    {
+      "date": "2023-04-21",
+      "name": "Muhammad Noer Alfiansyah",
+      "age": "20",
+      "polies": "Poliklinik Orthopaedi",
+      "id": 1
+    },
+    {
+      "date": "2023-04-22",
+      "name": "Afwi Syahban Mudharat",
+      "age": "21",
+      "polies": "Poliklinik Bedah Syaraf",
+      "id": 2
+    }
+  ],
+  "polies": [
+    {
+      "id": 1,
+      "name": "Poliklinik Bedah Syaraf"
+    },
+    {
+      "id": 2,
+      "name": "Poliklinik Anak"
+    },
+    {
+      "id": 3,
+      "name": "Poliklinik Orthopaedi"
+    }
+  ]
+}
